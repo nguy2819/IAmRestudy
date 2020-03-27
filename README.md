@@ -1,1 +1,5 @@
-# IAmRestudyForAHope
+# IAmRestudingForAHope
+
+HTML
+CSS
+JS
